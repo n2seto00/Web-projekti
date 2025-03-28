@@ -46,3 +46,7 @@ Tämä selainpohjainen oppimisympäristö on suunniteltu tukemaan JavaScript-ohj
 1. **Kloonaa repository**:
    ```bash
    git clone https://github.com/n2seto00/Web-projekti.git
+
+
+## 👤 Tekijät
+Toni Seppänen (n2seto00)
