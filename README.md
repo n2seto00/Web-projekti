@@ -50,3 +50,4 @@ Tämä selainpohjainen oppimisympäristö on suunniteltu tukemaan JavaScript-ohj
 
 ## 👤 Tekijät
 Toni Seppänen (n2seto00)
+Tuomo Wahlman (Tuomo00)

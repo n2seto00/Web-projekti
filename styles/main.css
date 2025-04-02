@@ -110,6 +110,29 @@ body {
     margin-bottom: 1.5em;
   }
   
+  .cardContainer h2, p {
+    margin-left: 15px;
+    margin-right: 15px;
+  }
 
+  .cardContainer {
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px;
+    justify-items: left;
+    width: fit-content;
+    display: flex;
+    margin-top: 50px;
+    margin-right: 1em;
+    background-color: #81b2f7;
+  }
 
+  #cardPage section {
+    flex-wrap: wrap;
+    display: inline-block;
+    align-items: end;
+  }
+
+  #cardPage .div {
+    width: 100%;
+  }
 
